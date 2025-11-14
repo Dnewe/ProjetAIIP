@@ -25,3 +25,9 @@ TRAIN_ANNOT_PATH = "<path_to_train_annotations_file>"
 VAL_ANNOT_PATH   = "<path_to_val_annotations_file>"
 TEST_ANNOT_PATH  = "<path_to_test_annotations_file>"
 ```
+
+# Resources
+
+[TorchVision Object Detection Finetuning Tutorial](https://docs.pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+<br>
+[LVIS Data Format](https://www.lvisdataset.org/dataset)
