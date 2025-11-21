@@ -23,6 +23,8 @@ COCO2017_VAL_PATH   = "<path_to_val_dataset_folder>"
 COCO2017_TEST_PATH  = "<path_to_test_dataset_folder>"
 TRAIN_ANNOT_PATH = "<path_to_train_annotations_file>"
 VAL_ANNOT_PATH   = "<path_to_val_annotations_file>"
+
+# Useful ??
 TEST_ANNOT_PATH  = "<path_to_test_annotations_file>"
 ```
 
