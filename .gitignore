@@ -1,6 +1,6 @@
 .venv
 data
-constants.py
+*constants.py
 __pycache__
 *.pt
 *.jpg
